@@ -13,7 +13,7 @@ body {
       rgba(255, 198, 39, 0.3),
       rgba(58, 44, 6, 0.582)
     ),
-    url("https://sustainable.kmutt.ac.th/wp-content/uploads/2024/11/EES_9854-1024x682.jpg");
+    url("https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.6435-9/62239240_10156357571868581_6489364562536562688_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=7b2446&_nc_ohc=TR49JwWHBL8Q7kNvgH3JM7Q&_nc_zt=23&_nc_ht=scontent.fbkk22-1.fna&_nc_gid=A7rnwGg0NhJsW5Z18zWUxIF&oh=00_AYCO24pYy0bk7Rne5V6TbINJ93_epeNe8gavoo8c112kgg&oe=67641322");
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -112,11 +112,18 @@ svg {
   width: 90%;
   max-width: 600px;
   text-align: center;
-  background-color: #ffcccc;
-  color: #a94442;
+  background: red;
+  color: white;
   font-size: 1rem;
   font-weight: bold;
   border: 1px solid #ebccd1;
   border-radius: 5px;
   display: none;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
