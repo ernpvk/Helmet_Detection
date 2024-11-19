@@ -1,7 +1,6 @@
 # Helmet_Detection
 A real-time helmet detection application using YOLOv8 and Flask. It also provides live counts of detected helmets and non-helmets.
 
----
 
 ## **Requirements**
 - Python 3.10 or later
@@ -12,7 +11,6 @@ A real-time helmet detection application using YOLOv8 and Flask. It also provide
   - NumPy
   - Torch
 
----
 
 ## **Setup Instructions**
 
